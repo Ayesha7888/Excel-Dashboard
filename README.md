@@ -1,1 +1,1 @@
-# Excel-Dashboard
+This project contains an Excel dashboard designed to visualize and analyze sales data for Vrinda Store. The dashboard provides insights into various metrics such as total sales, revenue trends, top-performing products, and customer demographics.
